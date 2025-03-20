@@ -1,0 +1,1406 @@
+<!DOCTYPE html>
+<!-- saved from url=(0030)https://www.hungthinhland.com/ -->
+<html class="wide wow-animation desktop landscape rd-navbar-static-linked" lang="en" love-deals="879BC0364EB9EBEE3DBE71B15E175613"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>CÔNG TY CỔ PHẦN HƯNG THỊNH LAND</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+<meta name="viewport" content="width=device-width, initial-scale=1">	
+	<meta name="format-detection" content="telephone=no">
+<meta name="keywords" content="Hưng Thịnh Land">
+<meta name="description" content="Website chính thức của Hưng Thịnh Land - đơn vị đầu tư, phát triển bất động sản với hàng trăm dự án và quỹ đất trên 4.500ha; Top công ty BĐS hàng đầu Việt Nam">
+<meta content="INDEX,FOLLOW" name="robots">
+<meta content="1800" http-equiv="REFRESH">
+<meta content="WIN QS CO ., LTD" name="author">
+<meta name="geo.region" content="VN-57">
+<meta name="geo.placename" content="Ho Chi Minh City">
+<meta name="ICBM" content="10.81067,106.62298">
+<meta name="geo.position" content="10.81067,106.62298">
+<meta name="geo.placename" content="Ho Chi Minh City">
+<meta name="DC.Publisher" content="HUNG THINH CORPORATION">
+<meta name="DC.Creator" content="HUNG THINH CORPORATION">
+<meta name="DC.Language" content="vn">
+<meta name="format-detection" content="telephone=no">
+<!--<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<!--Facebook-->
+<meta property="og:title" content="CÔNG TY CỔ PHẦN HƯNG THỊNH LAND">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://www.hungthinhland.com/images/land.png?v=2">
+	<!--<meta property="og:image" content="https://www.hungthinhland.com/images/logo_land3.png"/>-->
+	
+<meta property="og:url" content="">
+<meta property="og:description" content="">
+
+<link rel="icon" href="https://www.hungthinhland.com/images/favicon.ico?v=2" type="image/x-icon">
+
+
+	
+<!-- Stylesheets-->
+<link rel="stylesheet" type="text/css" href="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/css_nha.css">
+<link rel="stylesheet" type="text/css" href="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/css.css">
+<link rel="stylesheet" type="text/css" href="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/style_font.css">
+<link rel="stylesheet" href="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/bootstrap.css">
+<link rel="stylesheet" href="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/fonts.css">
+<!--<link rel="stylesheet" href="https://www.hungthinhland.com/css/style.css?ver=1.0" id="main-styles-link">-->
+	<link rel="stylesheet" href="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/style.css" id="main-styles-link">
+	
+ <!-- Google tag (gtag.js) -->
+ <script async="" src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/js" type="text/javascript"></script>
+  <script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-06SHBFJF3N');
+  </script>
+</head>
+<body>
+
+<!-- Tet2023 -->
+<!--<div class="top_xuan_2023">-->
+<!--    <img src="https://hungthinhcorp.com.vn/images/top-left.png" />-->
+<!--</div>-->
+<!--<div class="bottom_xuan_2023">-->
+<!--    <img src="https://hungthinhcorp.com.vn/images/bottom-right.png" />-->
+<!--</div>-->
+<!--<style>-->
+<!--    .top_xuan_2023 {-->
+<!--        /*display: none;*/-->
+<!--        width: 200px;-->
+<!--        position: fixed;-->
+<!--        z-index: 10000;-->
+<!--    }-->
+<!--    .bottom_xuan_2023 {-->
+<!--        /*display: none;*/-->
+<!--        width: 180px;-->
+<!--        position: fixed;-->
+<!--        z-index: 1000;-->
+<!--        bottom: -5px;-->
+<!--        right: 0-->
+<!--    }-->
+<!--    @media only screen and (max-width: 1200px) and (min-width: 991px) {-->
+<!--        .top_xuan_2023 {-->
+<!--            width: 150px;-->
+<!--            top: 67px;-->
+<!--        }-->
+<!--        .bottom_xuan_2023 {-->
+<!--            width: 140px;-->
+<!--        }-->
+<!--    }-->
+<!--    @media only screen and (max-width: 990px) {-->
+<!--        .top_xuan_2023 {-->
+<!--            width: 120px;-->
+<!--            top: 67px;-->
+<!--        }-->
+<!--        .bottom_xuan_2023 {-->
+<!--            width: 100px;-->
+<!--            /*display: none;*/-->
+<!--        }-->
+<!--    }-->
+<!--</style>-->
+<!-- End Tet2023 -->
+	
+<!-- Tet2022 -->
+<!--<style>-->
+<!--  .xuan_top {-->
+<!--    position: fixed;-->
+<!--    top: 0;-->
+<!--    left: 0px;-->
+<!--    z-index: 11;-->
+<!--    pointer-events: none;-->
+<!--  }-->
+<!--  .xuan_bottom {-->
+<!--    position: fixed;-->
+<!--    right: 0;-->
+<!--    bottom: 0px;-->
+<!--    z-index: 2;-->
+<!--    pointer-events: none;-->
+<!--    text-align: right;-->
+<!--  }-->
+<!--  @media (max-width: 1000px) {-->
+<!--    .xuan_top {-->
+<!--      top: 20px;-->
+<!--      left: -15px;-->
+<!--    }-->
+<!--    .xuan_top img {-->
+<!--      width: 150px;-->
+<!--    }-->
+<!--    .xuan_bottom img {-->
+<!--      width: 350px;-->
+<!--    }-->
+<!--  }-->
+<!--</style>-->
+<!-- <div class="xuan_top"><img src="/images/tet_22/land_top_left.png"></div>
+<div class="xuan_bottom"><img src="/images/tet_22/land_bottom_right.png"></div> -->
+
+<!-- Google Tag Manager (noscript) Mar-->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLVC6X6"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="page">
+<!-- Page Header-->
+<header class="section page-header"> 
+  <!-- RD Navbar-->
+  <div class="rd-navbar-wrap rd-navbar-modern-wrap" style="height: 87.5938px;">
+    <nav class="rd-navbar rd-navbar-modern rd-navbar-original rd-navbar-static" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="70px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+      <div class="rd-navbar-main-outer">
+        <div class="rd-navbar-main"> 
+          <!-- RD Navbar Panel-->
+          <div class="rd-navbar-panel"> 
+			
+			  
+            <div class="rd-navbar-brand"><a class="brand" href="https://www.hungthinhland.com/homepage.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/land.png" alt="" width="190"></a></div>
+			  
+			  
+			    
+            <!-- RD Navbar Toggle-->
+            <button class="rd-navbar-toggle toggle-original" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+            <!-- RD Navbar Brand-->
+			  
+          </div>
+          <div class="rd-navbar-main-element">
+            <div class="rd-navbar-nav-wrap toggle-original-elements"> 
+            
+                    
+              
+              <!-- RD Navbar Search-->
+              <div class="rd-navbar-search toggle-original-elements">
+                <button class="rd-navbar-search-toggle toggle-original" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
+                <form class="rd-search" action="https://www.hungthinhland.com/search.html" data-search-live="rd-search-results-live" method="GET">
+                  <div class="form-wrap">
+                    <label class="form-label rd-input-label" for="rd-navbar-search-form-input">Tìm kiếm...</label>
+                      <input type="hidden" name="cx" value="">
+                      <input type="hidden" name="ie" value="">
+                    <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="q" autocomplete="off">
+                    <div class="rd-search-results-live cleared" id="rd-search-results-live"></div>
+                    <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
+                  </div>
+                </form>
+              </div>
+              
+              <!--<div class="rd-navbar-search flag">
+                 |  <a href="#"> <img src="https://www.hungthinhland.com/images/vn.png" width="20"></a> 
+                       <a href="#"> <img src="https://www.hungthinhland.com/images/en.png" width="20"></a> 
+                      
+                    </div>-->
+				<div class="rd-navbar-search flag toggle-original-elements">
+                 |  <a href="https://hungthinhland.com/"> <img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/vn.png" width="20"></a> 
+                       <a href="https://hungthinhland.com/en"> <img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/en.png" width="20"></a> 
+				   <!-- <a href="https://hungthinhland.com/jp"> <img src="https://www.hungthinhland.com/images/jp.png" width="20"></a> 
+				   <a href="https://hungthinhland.com/kr"> <img src="https://www.hungthinhland.com/images/kr.png" width="20"></a>  -->
+                      
+                    </div> 
+				
+				
+              <!-- RD Navbar Nav-->
+              <ul class="rd-navbar-nav">
+                <li class="rd-nav-item active"><a class="rd-nav-link" href="https://www.hungthinhland.com/homepage.html">Trang chủ</a> </li>
+                <li class="rd-nav-item"><a class="rd-nav-link" href="https://www.hungthinhland.com/aboutus.html">Giới thiệu</a> </li>
+                
+               <li class="rd-nav-item rd-navbar--has-dropdown rd-navbar-submenu"><a class="rd-nav-link" href="https://www.hungthinhland.com/projects.html">Dự án</a><span class="rd-navbar-submenu-toggle"></span>
+                      <!-- RD Navbar Dropdown-->
+                                            <span class="rd-navbar-submenu-toggle"></span>
+                      <ul class="rd-menu rd-navbar-dropdown">
+                      	                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.hungthinhland.com/projects/Du-an-dang-trien-khai.html">Dự án đang triển khai</a></li>
+                                                <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.hungthinhland.com/projects/Du-an-da-trien-khai.html">Dự án đã triển khai</a></li>
+                                              </ul>
+                                          </li>
+               
+               
+<!--                <li class="rd-nav-item"><a class="rd-nav-link" href="http://www.hungthinhland.com/projects.html">Dự án</a> </li>-->
+                
+                
+                <li class="rd-nav-item rd-navbar--has-dropdown rd-navbar-submenu"><a class="rd-nav-link" href="https://www.hungthinhland.com/news/Tin-Hung-Thinh-Land.html">Tin tức</a><span class="rd-navbar-submenu-toggle"></span> 
+                	                  <span class="rd-navbar-submenu-toggle"></span>
+                  <ul class="rd-menu rd-navbar-dropdown">
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.hungthinhland.com/news/Tin-Hung-Thinh-Land.html">Tin Hưng Thịnh Land</a></li>
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.hungthinhland.com/news/Tin-Tap-doan-Hung-Thinh.html">Tin Tập đoàn Hưng Thịnh</a></li>
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.hungthinhland.com/news/Thong-tin-bao-chi.html">Thông tin báo chí</a></li>
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.hungthinhland.com/news/Tin-thi-truong-BDS.html">Tin thị trường BĐS</a></li>
+                                        <li class="rd-dropdown-item"><a href="https://www.hungthinhland.com/video.html">Thư viện</a></li>
+                  </ul>
+                                  </li>
+                <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="http://www.hungthinhland.com/investor-relation.html">Quan hệ Nhà đầu tư</a> </li> -->
+                <li class="rd-nav-item"><a class="rd-nav-link" href="https://www.hungthinhland.com/partner.html">Đối tác</a> </li>
+                <li class="rd-nav-item"><a class="rd-nav-link" href="https://www.hungthinhland.com/contact.html">Liên hệ</a> 
+                <!-- RD Navbar Megamenu--> 
+                  
+                </li>
+                
+                
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- Swiper-->
+
+<style type="text/css">
+.modal-body {
+   
+    padding: 0px;
+}
+
+button.close {
+   
+    position: absolute;
+	right: -15px;
+	top: -25px;
+	cursor: pointer;
+	font-size: 50px;
+	z-index: 1;
+	color: #fff;
+	opacity: 1 !important;
+}
+
+@media(min-width:576px) {
+.modal-dialog {
+	max-width: 900px;
+	margin: 0px auto;
+	margin-top: 2%;
+}
+.modal-sm {
+	max-width: 300px
+}
+}
+
+
+
+</style>
+
+<section class="section swiper-container swiper-slider swiper-slider-modern swiper-container-horizontal swiper-container-fade" data-loop="true" data-autoplay="5000" data-simulate-touch="true" data-nav="true" data-slide-effect="fade">
+  <div class="swiper-wrapper text-left" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-1bc9d02912e29412.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-1bc9d02912e29412.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(0px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="7">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://www.hungthinhland.com/projects/detail/Moonlight-Centre-Point.html">MOONLIGHT CENTRE POINT</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+            <div class="swiper-slide" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-6024a8b9a8d70524.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-6024a8b9a8d70524.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-1350px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="0">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://hungthinhland.com/projects/detail/Marina-District.html">MARINA DISTRICT</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-7867abae0388c162.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-7867abae0388c162.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-2700px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="1">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://hungthinhland.com/projects/detail/9X-QUY-NHON.html">9X QUY NHƠN</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-b19f232e349fb198.png" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-b19f232e349fb198.png&quot;); background-size: cover; width: 1350px; transform: translate3d(-4050px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="2">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://www.hungthinhland.com/projects/detail/MOONLIGHT-AVENUE.html">Moonlight Avenue</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-5151c25e82207128.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-5151c25e82207128.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-5400px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="3">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://hungthinhland.com/projects/detail/FiveSeasons-Homes-Vung-Tau-Central-Beach.html">FiveSeasons Homes </a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-2032200e2055c403.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-2032200e2055c403.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-6750px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="4">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://www.hungthinhland.com/projects/detail/MerryLand-Quy-Nhon.html">MerryLand Quy Nhơn</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide swiper-slide-prev" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-8a588a8b20c4a993.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-8a588a8b20c4a993.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-8100px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="5">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://www.hungthinhland.com/projects/detail/Richmond-Quy-Nhon.html">RICHMOND QUY NHON</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide swiper-slide-active" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-44012a2945edc183.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-44012a2945edc183.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-9450px, 0px, 0px); opacity: 1; transition-duration: 0ms;" data-swiper-slide-index="6">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="slideInDown animated"> <a href="https://www.hungthinhland.com/projects/detail/NEW-GALAXY-NHA-TRANG.html">NEW GALAXY NHA TRANG</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="swiper-slide swiper-slide-next" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-1bc9d02912e29412.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-1bc9d02912e29412.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-10800px, 0px, 0px); opacity: 0; transition-duration: 0ms;" data-swiper-slide-index="7">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://www.hungthinhland.com/projects/detail/Moonlight-Centre-Point.html">MOONLIGHT CENTRE POINT</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+          <div class="swiper-slide swiper-slide-duplicate" data-slide-bg="https://www.hungthinhland.com/media/upload/images/hung-thinh-land-6024a8b9a8d70524.jpg" style="background-image: url(&quot;https://www.hungthinhland.com/media/upload/images/hung-thinh-land-6024a8b9a8d70524.jpg&quot;); background-size: cover; width: 1350px; transform: translate3d(-12150px, 0px, 0px); opacity: 0; transition-duration: 0ms;" data-swiper-slide-index="0">
+      <div class="swiper-slide-caption">
+        <div class="container">
+          <div class="row">
+            <div class="slider-modern-box">
+              <h2 class="oh slider-modern-title"> <span data-caption-animate="slideInDown" data-caption-delay="0" class="not-animated"> <a href="https://hungthinhland.com/projects/detail/Marina-District.html">MARINA DISTRICT</a></span> </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div>
+  <!-- Swiper Navigation-->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+  <!-- Swiper Pagination-->
+  <div class="swiper-pagination swiper-pagination-style-2 swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span></div>
+</section>
+
+<!--All  Projects-->
+<section class="section section-sm bg-default bg_dark">
+  <div class="container">
+    <div class="oh wow slideInUp" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: slideInUp;">
+      <div class="title-decoration-lines">
+        <h6 class="title-decoration-lines-content green">Dự án mới nhất</h6>
+      </div>
+    </div>
+    <div class="row row-50 justify-content-center">
+                  <div class="col-sm-9 col-md-6 col-lg-5 col-xl-4 wow fadeInLeft" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
+        <article class="post post-creative">
+          <div class="post-creative-header"> </div>
+          <a class="post-creative-figure" href="https://www.hungthinhland.com/projects/detail/Marina-District.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9e9e2fded762e498.jpg" alt="MARINA DISTRICT" width="370" height="267"></a>
+          <div class="post-creative-footer">
+            <h5 class="post-creative-title"><a href="https://www.hungthinhland.com/projects/detail/Marina-District.html">MARINA DISTRICT</a></h5>
+          </div>
+        </article>
+      </div>
+            <div class="col-sm-9 col-md-6 col-lg-5 col-xl-4 wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+        <article class="post post-creative">
+          <div class="post-creative-header"> </div>
+          <a class="post-creative-figure" href="https://www.hungthinhland.com/projects/detail/9X-QUY-NHON.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5bc32cd7e60bf242.jpg" alt="9X QUY NHƠN" width="370" height="267"></a>
+          <div class="post-creative-footer">
+            <h5 class="post-creative-title"><a href="https://www.hungthinhland.com/projects/detail/9X-QUY-NHON.html">9X QUY NHƠN</a></h5>
+          </div>
+        </article>
+      </div>
+            <div class="col-sm-9 col-md-6 col-lg-5 col-xl-4 wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
+        <article class="post post-creative">
+          <div class="post-creative-header"> </div>
+          <a class="post-creative-figure" href="https://www.hungthinhland.com/projects/detail/MOONLIGHT-AVENUE.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-2192a572ed7d8732.png" alt="Moonlight Avenue" width="370" height="267"></a>
+          <div class="post-creative-footer">
+            <h5 class="post-creative-title"><a href="https://www.hungthinhland.com/projects/detail/MOONLIGHT-AVENUE.html">Moonlight Avenue</a></h5>
+          </div>
+        </article>
+      </div>
+            <div class="col-sm-9 col-md-6 col-lg-5 col-xl-4 wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+        <article class="post post-creative">
+          <div class="post-creative-header"> </div>
+          <a class="post-creative-figure" href="https://www.hungthinhland.com/projects/detail/HANOI-MELODY-RESIDENCES.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-739a32bcc68d5728.jpg" alt="HANOI MELODY RESIDENCES" width="370" height="267"></a>
+          <div class="post-creative-footer">
+            <h5 class="post-creative-title"><a href="https://www.hungthinhland.com/projects/detail/HANOI-MELODY-RESIDENCES.html">HANOI MELODY RESIDENCES</a></h5>
+          </div>
+        </article>
+      </div>
+            <div class="col-sm-9 col-md-6 col-lg-5 col-xl-4 wow fadeInLeft" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
+        <article class="post post-creative">
+          <div class="post-creative-header"> </div>
+          <a class="post-creative-figure" href="https://www.hungthinhland.com/projects/detail/FiveSeasons-Homes-Vung-Tau-Central-Beach.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a48de2c4dd7bf811.jpg" alt="FiveSeasons Homes " width="370" height="267"></a>
+          <div class="post-creative-footer">
+            <h5 class="post-creative-title"><a href="https://www.hungthinhland.com/projects/detail/FiveSeasons-Homes-Vung-Tau-Central-Beach.html">FiveSeasons Homes </a></h5>
+          </div>
+        </article>
+      </div>
+            <div class="col-sm-9 col-md-6 col-lg-5 col-xl-4 wow fadeInLeft" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+        <article class="post post-creative">
+          <div class="post-creative-header"> </div>
+          <a class="post-creative-figure" href="https://www.hungthinhland.com/projects/detail/MerryLand-Quy-Nhon.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-3146f194b1c5d499.jpg" alt="MerryLand Quy Nhơn" width="370" height="267"></a>
+          <div class="post-creative-footer">
+            <h5 class="post-creative-title"><a href="https://www.hungthinhland.com/projects/detail/MerryLand-Quy-Nhon.html">MerryLand Quy Nhơn</a></h5>
+          </div>
+        </article>
+      </div>
+                </div>
+    <a class="button button-secondary button-ujarak wow fadeInUp" href="https://www.hungthinhland.com/projects.html" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">xem tất cả</a> </div>
+</section>
+
+<!-- About us-->
+<!--<section class="section section-sm bg-default bg_dark bg_da">
+  <div class="container">
+    <div class="oh">
+      <div class="title-decoration-lines wow slideInDown" data-wow-delay="0s">
+        <h6 class="title-decoration-lines-content green">Giới thiệu Hưng Thịnh Land</h6>
+      </div>
+    </div>
+    <p class="nd_gt wow slideInUp" data-wow-delay="0s"><p><strong>C&ocirc;ng ty Cổ phần Hưng Thịnh Land (Hưng Thịnh Land)</strong> l&agrave; th&agrave;nh vi&ecirc;n n&ograve;ng cốt song h&agrave;nh c&ugrave;ng Tập đo&agrave;n Hưng Thịnh ph&aacute;t triển th&agrave;nh c&ocirc;ng h&agrave;ng loạt dự &aacute;n bất động sản trong suốt nhiều năm qua, cung cấp ra thị trường hơn 30.000 sản phẩm, tạo dựng chốn an cư cho cộng đồng. <strong>Hưng Thịnh Land</strong> hiện đang sở hữu v&agrave; ph&aacute;t triển 59 dự &aacute;n đa dạng với chất lượng v&agrave; gi&aacute; trị thực, trải d&agrave;i khắp c&aacute;c tỉnh th&agrave;nh tr&ecirc;n cả nước, với quỹ đất hơn 3.300ha ở những vị tr&iacute; chiến lược, phục vụ cho hơn 100.000 kh&aacute;ch h&agrave;ng.<br />
+&nbsp;</p>
+
+<p>Với tiềm lực t&agrave;i ch&iacute;nh v&agrave; nh&acirc;n lực vững mạnh c&ugrave;ng việc kế thừa 20 năm kinh nghiệm, uy t&iacute;n từ Tập đo&agrave;n Hưng Thịnh, <strong>Hưng Thịnh Land</strong> lu&ocirc;n khẳng định vị thế l&agrave; nh&agrave; ph&aacute;t triển bất động sản h&agrave;ng đầu trong h&agrave;nh tr&igrave;nh kiến tạo những gi&aacute; trị mới &ndash; th&ocirc;ng minh, v&igrave; một cuộc sống thịnh vượng v&agrave; bền vững.</p>
+</p>
+    <div class="row row-lg row-50 justify-content-center border-classic border-classic-2">
+      <div class="col-sm-6 col-md-3 wow fadeInLeft" data-wow-delay="0s">
+        <div class="counter-creative">
+          <div class="counter-creative-number"> <img src="https://www.hungthinhland.com/images/icon_tn.png" width="65"> </div>
+          <h6 class="counter-creative-title">TẦM NHÌN</h6>
+          <p>Nh&agrave; ph&aacute;t triển bất động sản h&agrave;ng đầu trong h&agrave;nh tr&igrave;nh kiến tạo những gi&aacute; trị chung cho cộng đồng, v&igrave; một cuộc sống thịnh vượng v&agrave; bền vững.</p>
+ </div>
+      </div>
+      <div class="col-sm-6 col-md-4 wow fadeInLeft" data-wow-delay=".1s">
+        <div class="counter-creative">
+          <div class="counter-creative-number"> <img src="https://www.hungthinhland.com/images/icon_sm.png" width="65"> </div>
+          <h6 class="counter-creative-title">SỨ MỆNH</h6>
+          <p>Tạo dựng những cộng đồng nơi hội tụ hạnh ph&uacute;c v&agrave; phồn vinh th&ocirc;ng qua ph&aacute;t triển đa dạng loại h&igrave;nh bất động sản gi&aacute; trị thực, song h&agrave;nh xu thế của cuộc sống v&agrave; c&ocirc;ng nghệ ti&ecirc;n tiến tr&ecirc;n to&agrave;n cầu.</p>
+ </div>
+      </div>
+      <div class="col-sm-6 col-md-2 wow fadeInLeft" data-wow-delay=".2s" >
+        <div class="counter-creative">
+          <div class="counter-creative-number"> <img src="https://www.hungthinhland.com/images/icon_gtcl.png" width="65"> </div>
+          <h6 class="counter-creative-title">GIÁ TRỊ CỐT LÕI</h6>
+          <div style='margin-top:10px; text-align:justify'>
+<p><strong>THẤU HIỂU</strong><br />
+&bull; Thấu hiểu, lắng nghe thị trường, kh&aacute;ch h&agrave;ng v&agrave; đối t&aacute;c.<br />
+&bull; Thấu hiểu mục ti&ecirc;u v&agrave; nội lực của doanh nghiệp.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>CHỦ ĐỘNG</strong><br />
+&bull; Chủ động trong chiến lược ph&aacute;t triển chuỗi gi&aacute; trị bất động sản.<br />
+&bull; Chủ động nắm bắt cơ hội v&agrave; ứng biến trước mọi th&aacute;ch thức của thị trường.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>CHIA SẺ</strong><br />
+Chia sẻ gi&aacute; trị, h&agrave;i h&ograve;a lợi &iacute;ch của c&aacute;c b&ecirc;n (cổ đ&ocirc;ng, nh&acirc;n vi&ecirc;n, kh&aacute;ch h&agrave;ng, đối t&aacute;c, m&ocirc;i trường v&agrave; x&atilde; hội).</p>
+
+<p>&nbsp;</p>
+
+<p><strong>BỀN VỮNG</strong><br />
+&bull; Ph&aacute;t triển bền vững dựa tr&ecirc;n triết l&yacute; kinh doanh bất động sản gi&aacute; trị thực, tu&acirc;n thủ những quy chuẩn quản trị chất lượng sản phẩm.<br />
+&bull; Đ&oacute;ng g&oacute;p gi&aacute; trị tốt đẹp, nh&acirc;n văn cho cộng đồng x&atilde; hội.<br />
+&bull; Hướng đến sự c&acirc;n bằng giữa con người v&agrave; thi&ecirc;n nhi&ecirc;n, th&iacute;ch nghi với sự thay đổi của kh&iacute; hậu v&agrave; &aacute;p dụng c&ocirc;ng nghệ th&acirc;n thiện với m&ocirc;i trường.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>S&Aacute;NG TẠO V&Agrave; ĐỔI MỚI</strong><br />
+&bull; S&aacute;ng tạo v&agrave; đổi mới kh&ocirc;ng ngừng.<br />
+&bull; Ti&ecirc;n phong ứng dụng những giải ph&aacute;p mới, th&ocirc;ng minh.</p>
+</div>
+ </div>
+      </div>
+      <div class="col-sm-6 col-md-3 wow fadeInLeft" data-wow-delay=".3s">
+        <div class="counter-creative">
+          <div class="counter-creative-number"> <img src="https://www.hungthinhland.com/images/icon_lvhd.png" width="65"> </div>
+          <h6 class="counter-creative-title">LĨNH VỰC HOẠT ĐỘNG</h6>
+          <p>&bull; Đầu tư, hợp t&aacute;c đầu tư v&agrave; kinh doanh c&aacute;c dự &aacute;n Bất động sản<br />
+&bull; Ph&aacute;t triển Bất động sản đ&ocirc; thị, du lịch nghỉ dưỡng<br />
+&bull; Quản l&yacute; Bất động sản</p>
+ </div>
+      </div>
+    </div>
+    <a class="button button-secondary button-ujarak wow fadeInUp" href="http://www.hungthinhland.com/aboutus.html" data-wow-delay=".2s">xem tất cả</a> </div>
+</section>-->
+
+
+
+<section class="section section-sm bg-default">
+  <div class="container"> 
+ <div class="oh">
+      <div class="title-decoration-lines wow slideInDown" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: slideInDown;">
+        <h6 class="title-decoration-lines-content green">Tin tức mới</h6>
+      </div>
+    </div>
+    <div class="tabs-custom tabs-horizontal tabs-corporate wow slideInUp" data-wow-delay="0s" id="tabs-5" style="visibility: visible; animation-delay: 0s; animation-name: slideInUp;"> 
+      <!-- Nav tabs-->
+      <!--<ul class="nav nav-tabs nav-tabs1">
+        <li class="nav-item" role="presentation"><a class="nav-link active" href="#tabs-5-1" data-toggle="tab">     Tin Hung Thinh Land </a></li>
+        <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-5-2" data-toggle="tab"> Tin thị trường BĐS  </a></li>
+      </ul>-->
+      <!-- Tab panes-->
+      <div class="tab-content tab-content1">
+      
+        <div class="tab-pane fade active show" id="tabs-5-1">
+          <div class="row row-30  wow slideInUp" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: slideInUp;">
+            <div class="col-md-6 col-lg-6 col-xl-6"> 
+        
+        <!-- Team Classic-->
+        <article class="post post-classic"> <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/New-Galaxy-Binh-Duong-tang-toc-xay-dung-cat-noc-toa-thap-dau-tien.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a8be79e296fa2846.jpg" alt="New Galaxy Bình Dương tăng tốc xây dựng, cất nóc tòa tháp đầu tiên" width="600" height="400"></a>
+          <!--<div class="post-classic-panel group-middle justify-content-start">
+            <div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime="Ngày đăng: 18-05-2019"> 21-01-2025</time>
+            </div>
+          </div>-->
+          <h4 class="post-classic-title post-classic-title-home"><a href="https://www.hungthinhland.com/news/detail/New-Galaxy-Binh-Duong-tang-toc-xay-dung-cat-noc-toa-thap-dau-tien.html">New Galaxy Bình Dương tăng tốc xây dựng, cất nóc tòa tháp đầu tiên</a> </h4>
+          <p>Sáng ngày 21/01/2025, Lễ cất nóc tháp T (Trendy) thuộc tổ hợp căn hộ New Galaxy – một trong những dự án trọng điểm của Tập đoàn Hưng Thịnh tại Bình Dương - đã diễn ra. Với sự kiện cất nóc, tháp T sẵn sàng bước vào giai đoạn hoàn thiện, trong khi toàn công trường tăng tốc xây dựng nhằm đẩy nhanh quá trình về đích.</p>
+        </article>
+      </div>
+            
+      
+      <div class="col-md-6 col-lg-6 col-xl-6">
+      <div class="row">
+      			            <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> 
+		  <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/Hung-Thinh-Land-thay-doi-nhan-dien-thuong-hieu-.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5a76684478f24441.jpg" alt="Hưng Thịnh Land thay đổi nhận diện thương hiệu " width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <!--<div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime=" 18-05-2019">  31-07-2024</time>
+            </div>-->
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/Hung-Thinh-Land-thay-doi-nhan-dien-thuong-hieu-.html">Hưng Thịnh Land thay đổi nhận diện thương hiệu </a> </h4>
+        </article>
+      </div>
+                  <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> 
+		  <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/HUNG-THINH-LAND-DAY-MANH-TAI-CAU-TRUC-BO-NHIEM-CAC-PHO-TONG-GIAM-DOC-MOI.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5c7d026023dd5936.jpg" alt="HƯNG THỊNH LAND ĐẨY MẠNH TÁI CẤU TRÚC, BỔ NHIỆM CÁC PHÓ TỔNG GIÁM ĐỐC MỚI" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <!--<div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime=" 18-05-2019">  06-09-2023</time>
+            </div>-->
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/HUNG-THINH-LAND-DAY-MANH-TAI-CAU-TRUC-BO-NHIEM-CAC-PHO-TONG-GIAM-DOC-MOI.html">HƯNG THỊNH LAND ĐẨY MẠNH TÁI CẤU TRÚC, BỔ NHIỆM CÁC PHÓ TỔNG GIÁM ĐỐC MỚI</a> </h4>
+        </article>
+      </div>
+            </div><div class="row">      <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> 
+		  <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/MERRYLAND-QUY-NHON-BUNG-NO-TRONG-DEM-NHAC-QUY-TU-NHIEU-SAO-VIET.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b90bdf17e5c6f356.jpg" alt="MERRYLAND QUY NHƠN BÙNG NỔ TRONG ĐÊM NHẠC QUY TỤ NHIỀU SAO VIỆT" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <!--<div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime=" 18-05-2019">  06-09-2023</time>
+            </div>-->
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/MERRYLAND-QUY-NHON-BUNG-NO-TRONG-DEM-NHAC-QUY-TU-NHIEU-SAO-VIET.html">MERRYLAND QUY NHƠN BÙNG NỔ TRONG ĐÊM NHẠC QUY TỤ NHIỀU SAO VIỆT</a> </h4>
+        </article>
+      </div>
+                  <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> 
+		  <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/MERRYLAND-QUY-NHON-RUC-RO-HAO-QUANG-CUNG-DEM-CHUNG-KET-TOAN-QUOC-MISS-WORLD-VIETNAM-2023.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ec3057781d752268.jpg" alt="MERRYLAND QUY NHƠN RỰC RỠ HÀO QUANG CÙNG ĐÊM CHUNG KẾT TOÀN QUỐC MISS WORLD VIETNAM 2023" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <!--<div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime=" 18-05-2019">  24-07-2023</time>
+            </div>-->
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/MERRYLAND-QUY-NHON-RUC-RO-HAO-QUANG-CUNG-DEM-CHUNG-KET-TOAN-QUOC-MISS-WORLD-VIETNAM-2023.html">MERRYLAND QUY NHƠN RỰC RỠ HÀO QUANG CÙNG ĐÊM CHUNG KẾT TOÀN QUỐC MISS WORLD VIETNAM 2023</a> </h4>
+        </article>
+      </div>
+                  </div>
+      </div>
+      
+
+      
+      
+      
+    </div>
+        </div>
+        
+        
+        
+        
+        <div class="tab-pane fade" id="tabs-5-2">
+         <div class="row row-30">
+            <div class="col-md-6 col-lg-6 col-xl-6"> 
+        
+        <!-- Team Classic-->
+        <article class="post post-classic"> <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/Hung-Thinh-Quy-Nhon-se-dat-duoc-thoa-thuan-gia-han-them-2-nam-cho-4.000-ty-dong-trai-phieu.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-201da6ce55c62591.jpg" alt="Hưng Thịnh Quy Nhơn sẽ đạt được thỏa thuận gia hạn thêm 2 năm cho 4.000 tỷ đồng trái phiếu" width="600" height="400"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime="Ngày đăng: 18-05-2019"> Ngày đăng: 11-09-2023</time>
+            </div>
+          </div>
+          <h4 class="post-classic-title post-classic-title-home"><a href="https://www.hungthinhland.com/news/detail/Hung-Thinh-Quy-Nhon-se-dat-duoc-thoa-thuan-gia-han-them-2-nam-cho-4.000-ty-dong-trai-phieu.html">Hưng Thịnh Quy Nhơn sẽ đạt được thỏa thuận gia hạn thêm 2 năm cho 4.000 tỷ đồng trái phiếu</a> </h4>
+          <p>Hai lô trái phiếu do CTCP Dịch vụ Giải trí Hưng Thịnh Quy Nhơn (thành viên Tập đoàn Hưng Thịnh) phát hành năm 2021 sẽ được gia hạn thêm 2 năm, có mã HQNCH2124003 và HQNCH2124004, tổng giá trị 4,000 tỷ.</p>
+        </article>
+      </div>
+            
+      
+      <div class="col-md-6 col-lg-6 col-xl-6">
+      <div class="row">
+      			            <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/Nhieu-nganh-cho-bat-dong-san-khoi-thong.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-424ec4a47b5d6883.jpg" alt="Nhiều ngành chờ bất động sản khơi thông" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime="Ngày đăng: 18-05-2019"> Ngày đăng: 18-05-2023</time>
+            </div>
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/Nhieu-nganh-cho-bat-dong-san-khoi-thong.html">Nhiều ngành chờ bất động sản khơi thông</a> </h4>
+        </article>
+      </div>
+                  <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/Trung-tam-tri-tue-nhan-tao-rong-1525-ha-sap-hinh-thanh-tai-Quy-Nhon.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-19f3a6a85fc0e479.jpg" alt="Trung tâm trí tuệ nhân tạo rộng 15,25 ha sắp hình thành tại Quy Nhơn" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime="Ngày đăng: 18-05-2019"> Ngày đăng: 07-02-2023</time>
+            </div>
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/Trung-tam-tri-tue-nhan-tao-rong-1525-ha-sap-hinh-thanh-tai-Quy-Nhon.html">Trung tâm trí tuệ nhân tạo rộng 15,25 ha sắp hình thành tại Quy Nhơn</a> </h4>
+        </article>
+      </div>
+            </div><div class="row">      <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/Uy-ban-Thuong-vu-Quoc-hoi-thong-qua-Nghi-quyet-lap-thanh-pho-Thu-Duc.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-2e26f08646933542.jpg" alt="Ủy ban Thường vụ Quốc hội thông qua Nghị quyết lập thành phố Thủ Đức" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime="Ngày đăng: 18-05-2019"> Ngày đăng: 10-02-2023</time>
+            </div>
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/Uy-ban-Thuong-vu-Quoc-hoi-thong-qua-Nghi-quyet-lap-thanh-pho-Thu-Duc.html">Ủy ban Thường vụ Quốc hội thông qua Nghị quyết lập thành phố Thủ Đức</a> </h4>
+        </article>
+      </div>
+                  <div class="col-md-6 col-lg-6 col-xl-6">
+      <article class="post post-classic"> <a class="post-classic-figure" href="https://www.hungthinhland.com/news/detail/Binh-Dinh-de-xuat-nang-cap-san-bay-Phu-Cat.html"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-223fefe958e8a551.jpg" alt="Bình Định đề xuất nâng cấp sân bay Phù Cát" width="900" height="600"></a>
+          <div class="post-classic-panel group-middle justify-content-start">
+            <div class="post-classic-time">
+              <div class="unit unit-spacing-xs"> </div>
+              <span class="icon fa fa-clock-o icon_time_news"></span>
+              <time datetime="Ngày đăng: 18-05-2019"> Ngày đăng: 17-03-2023</time>
+            </div>
+          </div>
+          <h4 class="post-classic-title"><a href="https://www.hungthinhland.com/news/detail/Binh-Dinh-de-xuat-nang-cap-san-bay-Phu-Cat.html">Bình Định đề xuất nâng cấp sân bay Phù Cát</a> </h4>
+        </article>
+      </div>
+                  </div>
+      </div>
+      
+      
+      
+      
+      
+      
+        
+        
+      
+      <!--<div class="col-md-3 col-lg-3 col-xl-3" >
+              </div>-->
+      
+      
+      
+      
+    </div> 
+          
+        </div>
+      </div>
+    </div>
+    <a class="button button-secondary button-ujarak wow fadeInUp" href="https://www.hungthinhland.com/news.html" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">xem tất cả</a>
+  </div>
+</section>
+
+
+
+<section class="section section-sm section-last bg-default bg_dark bg_da_img">
+<div class="container">
+<div class="row">
+  <div class="col-md-8 col-xs-6 title-decoration-line111s wow fadeInLeft" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
+    <div class="oh">
+      <div class="title-decoration-lines">
+        <h6 class="title-decoration-lines-content green">Đối tác</h6>
+      </div>
+    </div>
+    <p style="margin-left:auto; margin-right:auto; text-align:center">Là Nhà phát triển bất động sản hàng đầu tại Việt Nam, <strong>Hưng Thịnh Land</strong> đã mở rộng quan hệ hợp tác với nhiều đối tác tầm cỡ nhằm phát huy thế mạnh của đôi bên, hoàn thành mục tiêu tăng trưởng và phát triển bền vững.</p>
+    <!-- Owl Carousel-->
+    <div class="owl-carousel owl-clients owl-loaded owl-drag" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-margin="30" data-nav="false" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="true" style="">
+                  
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-6800px, 0px, 0px); transition: 0.25s; width: 25600px;"><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9bcef50f7bf6c350.jpg" alt="ACB" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-563016e75f37c115.jpg" alt="MBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-96a3a0b28acd2336.jpg" alt="Nam A Bank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-80d66855ef85f358.jpg" alt="VPBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-099ed3779b40a738.jpg" alt="VietcomBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-040b10e53a604966.jpg" alt="UBS" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b2b3100ebae88807.jpg" alt="HSC" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9273680beacec938.jpg" alt="CASC" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-04538d0432015254.jpg" alt="VISecurities" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-97836744bf491331.jpg" alt="BaoVietBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-713006017d511557.jpg" alt="VinaCapital" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-382eafa8a3fe5262.jpg" alt="Dragon Capital" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-1a0176281aed9768.jpg" alt="BIDV" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-09b07a2b1c604305.jpg" alt="SSI" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-743c6aae9b1ec578.jpg" alt="WYNDHAM GRAND" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-10551cbcba8eb854.jpg" alt="FPT" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-33a82e4aa881b385.jpg" alt="WYNDHAM" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0b0deab2bd323927.jpg" alt="VIETTEL" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-cf66825f3a87b424.jpg" alt="JW MARRIOTT" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-849f90a437182604.jpg" alt="SAMSUNG" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-35a2aac467753404.jpg" alt="CENTARA" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-60b7f155520f0974.jpg" alt="VIETRAVEL" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-acd56819f28b5302.jpg" alt="BK TPHCM" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f725261146c7f364.jpg" alt="MARRIOTT" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5326ea23a7216339.jpg" alt="SHERATON" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-452aaf4afc5ba380.jpg" alt="DHQG TPHCM" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a0c86170b3634120.jpg" alt="PWC" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8fa6d76b73942752.jpg" alt="FEGASUS" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a02ca2b735e8e356.jpg" alt="BCG" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-77bb2763b4593174.jpg" alt="DH QUY NHON" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5aa44bbe2399e903.png" alt="McKinsey" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8070de04bfe5e175.jpg" alt="EY" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-20d312554cee1509.jpg" alt="Yoyo" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8be67b8868718732.png" alt="VietCombank" width="270" height="145"></div></div><div class="owl-item active" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8c64687a02407586.png" alt="Agribank" width="270" height="145"></div></div><div class="owl-item active" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5b01e8bdbd6be442.jpg" alt="Steelman Partners" width="270" height="145"></div></div><div class="owl-item active" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-d45127d91a5d0460.png" alt="ACB" width="270" height="145"></div></div><div class="owl-item active" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-4ec3c3dacd144935.jpg" alt="MSB" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a84b2bf068e1c285.jpg" alt="H" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ca42caf4683f4989.jpg" alt="LASER VISION" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0c5e2e47a5d99114.jpg" alt="PVcomBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-26fb72d506278997.jpg" alt="BH" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-eb30d4b36186b573.png" alt="MB Bank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ba8d3e79ca400157.jpg" alt="OCB" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-42a19e1b55e52383.jpg" alt="PHILLIPE PIERGA DESIGN" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f2ab4238bb0e1480.jpg" alt="HUMPHREYS PARTNERS ARCHITECTS" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f0b0f082133c1461.png" alt="VP Bank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0a352c9fb6ea7668.jpg" alt="TPBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-66b49573e5e75156.jpg" alt="BE" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a84abb6b1bee0243.jpg" alt="Sacombank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-cfdb230a56a32748.jpg" alt="LASERVISION" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-acf2da35a88ae650.jpg" alt="GREGNORMAN" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-eaff741f708e3653.png" alt="TPS" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-97f778b9d8625934.jpg" alt="ONGONG" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-38afd7819fc45139.jpg" alt="HDBANK" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-02edf46ade15f191.jpg" alt="LAND SCULPTOR" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ceb5eb3fe2133611.jpg" alt="WATG" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a7d21efcdeb34407.png" alt="VietBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6db598f74ec74564.jpg" alt="SALA" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-737a11a4ea90d881.png" alt="Nam A Bank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9b8a3642f6012102.jpg" alt="HYANS" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c4e896e84fd69142.jpg" alt="CBRE" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c95afa107d5de809.jpg" alt="TPS" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-846ef78f2121e462.jpg" alt="VietinBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9bcef50f7bf6c350.jpg" alt="ACB" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-563016e75f37c115.jpg" alt="MBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-96a3a0b28acd2336.jpg" alt="Nam A Bank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-80d66855ef85f358.jpg" alt="VPBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-099ed3779b40a738.jpg" alt="VietcomBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-040b10e53a604966.jpg" alt="UBS" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b2b3100ebae88807.jpg" alt="HSC" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9273680beacec938.jpg" alt="CASC" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-04538d0432015254.jpg" alt="VISecurities" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-97836744bf491331.jpg" alt="BaoVietBank" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-713006017d511557.jpg" alt="VinaCapital" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-382eafa8a3fe5262.jpg" alt="Dragon Capital" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-1a0176281aed9768.jpg" alt="BIDV" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-09b07a2b1c604305.jpg" alt="SSI" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-743c6aae9b1ec578.jpg" alt="WYNDHAM GRAND" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-10551cbcba8eb854.jpg" alt="FPT" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-33a82e4aa881b385.jpg" alt="WYNDHAM" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0b0deab2bd323927.jpg" alt="VIETTEL" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-cf66825f3a87b424.jpg" alt="JW MARRIOTT" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-849f90a437182604.jpg" alt="SAMSUNG" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-35a2aac467753404.jpg" alt="CENTARA" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-60b7f155520f0974.jpg" alt="VIETRAVEL" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-acd56819f28b5302.jpg" alt="BK TPHCM" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f725261146c7f364.jpg" alt="MARRIOTT" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5326ea23a7216339.jpg" alt="SHERATON" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-452aaf4afc5ba380.jpg" alt="DHQG TPHCM" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a0c86170b3634120.jpg" alt="PWC" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8fa6d76b73942752.jpg" alt="FEGASUS" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a02ca2b735e8e356.jpg" alt="BCG" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-77bb2763b4593174.jpg" alt="DH QUY NHON" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5aa44bbe2399e903.png" alt="McKinsey" width="270" height="145"></div></div><div class="owl-item" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8070de04bfe5e175.jpg" alt="EY" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-20d312554cee1509.jpg" alt="Yoyo" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8be67b8868718732.png" alt="VietCombank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-8c64687a02407586.png" alt="Agribank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5b01e8bdbd6be442.jpg" alt="Steelman Partners" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-d45127d91a5d0460.png" alt="ACB" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-4ec3c3dacd144935.jpg" alt="MSB" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a84b2bf068e1c285.jpg" alt="H" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ca42caf4683f4989.jpg" alt="LASER VISION" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0c5e2e47a5d99114.jpg" alt="PVcomBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-26fb72d506278997.jpg" alt="BH" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-eb30d4b36186b573.png" alt="MB Bank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ba8d3e79ca400157.jpg" alt="OCB" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-42a19e1b55e52383.jpg" alt="PHILLIPE PIERGA DESIGN" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f2ab4238bb0e1480.jpg" alt="HUMPHREYS PARTNERS ARCHITECTS" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f0b0f082133c1461.png" alt="VP Bank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0a352c9fb6ea7668.jpg" alt="TPBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-66b49573e5e75156.jpg" alt="BE" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a84abb6b1bee0243.jpg" alt="Sacombank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-cfdb230a56a32748.jpg" alt="LASERVISION" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-acf2da35a88ae650.jpg" alt="GREGNORMAN" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-eaff741f708e3653.png" alt="TPS" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-97f778b9d8625934.jpg" alt="ONGONG" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-38afd7819fc45139.jpg" alt="HDBANK" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-02edf46ade15f191.jpg" alt="LAND SCULPTOR" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ceb5eb3fe2133611.jpg" alt="WATG" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a7d21efcdeb34407.png" alt="VietBank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6db598f74ec74564.jpg" alt="SALA" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-737a11a4ea90d881.png" alt="Nam A Bank" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9b8a3642f6012102.jpg" alt="HYANS" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c4e896e84fd69142.jpg" alt="CBRE" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c95afa107d5de809.jpg" alt="TPS" width="270" height="145"></div></div><div class="owl-item cloned" style="width: 170px; margin-right: 30px;"><div class="clients-modern"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-846ef78f2121e462.jpg" alt="VietinBank" width="270" height="145"></div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+  </div>
+  <div class="col-md-4 col-xs-6 gt_res wow fadeInRight" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInRight;">
+    <div class="oh">
+      <div class="title-decoration-lines wow animated" style="visibility: visible;">
+        <h6 class="title-decoration-lines-content green">Giải thưởng</h6>
+      </div>
+    </div>
+    <div class="owl-carousel owl-modern owl-loaded owl-drag" data-items="1" data-stage-padding="15" data-margin="30" data-dots="false" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="false" style="">
+                  <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+            <!-- Quote Lisa-->
+      
+      <!-- Quote Lisa-->
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-7999px, 0px, 0px); transition: all; width: 32029px; padding-left: 15px; padding-right: 15px;"><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c15e4d1fae208531.gif" alt="Doanh nghiệp vì cộng đồng &lt;br&gt; SAIGON TIMES CSR 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp vì cộng đồng <br> SAIGON TIMES CSR 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f67556939f03a401.gif" alt="Nhà phát triển dự án phức hợp tốt nhất 2021 - Vietnam Property Awards 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển dự án phức hợp tốt nhất 2021 - Vietnam Property Awards 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b9332833928c2631.gif" alt="Top 50 Doanh nghiệp lợi nhuận xuất sắc Việt Nam năm 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 50 Doanh nghiệp lợi nhuận xuất sắc Việt Nam năm 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-1a740bc03fd27165.gif" alt="Nhà phát triển Bất động sản xuất sắc 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển Bất động sản xuất sắc 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0c4bb02aaa9ba539.gif" alt="Thương hiệu mạnh Việt Nam 2021 " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Thương hiệu mạnh Việt Nam 2021 </a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ef16a54383aa1622.gif" alt="Top 10 nhà phát triển Bất động sản hàng đầu Việt Nam 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 nhà phát triển Bất động sản hàng đầu Việt Nam 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-e29670c0fb62d362.gif" alt="Best Residential Developer Southeast Asia 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Best Residential Developer Southeast Asia 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6890e3dd2185b177.gif" alt="Top 10 Nhà phát triển Bất động sản tiêu biểu 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển Bất động sản tiêu biểu 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f3ac33b3acb7f247.gif" alt="Giấy khen doanh nghiệp thực hiện tốt nghĩa vụ thuế năm 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Giấy khen doanh nghiệp thực hiện tốt nghĩa vụ thuế năm 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a867c6b33a279881.gif" alt="Doanh nghiệp TP.HCM tiêu biểu năm 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp TP.HCM tiêu biểu năm 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-598f4497b4a19891.gif" alt="Thương hiệu Việt yêu thích nhất 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Thương hiệu Việt yêu thích nhất 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-fa7f49aeeb4c4740.gif" alt="Thương hiệu tiêu biểu Việt Nam hội nhập 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Thương hiệu tiêu biểu Việt Nam hội nhập 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6cecca9722857374.gif" alt="Nhà phát triển bất động sản tiêu biểu Việt Nam 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển bất động sản tiêu biểu Việt Nam 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-d1ccb72660407996.gif" alt="Sản phẩm, dịch vụ tiêu biểu TP.HCM 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Sản phẩm, dịch vụ tiêu biểu TP.HCM 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a4ea6de04ed5e938.gif" alt="Top 20 nhãn hiệu nổi tiếng Việt Nam 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 20 nhãn hiệu nổi tiếng Việt Nam 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-fd70a2cd16e4a706.gif" alt="Bằng khen của hiệp hội bất động sản Việt Nam 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Bằng khen của hiệp hội bất động sản Việt Nam 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-abe2895d894b3634.gif" alt="THƯƠNG HIỆU TIÊU BIỂU CHÂU Á - THÁI BÌNH DƯƠNG 2019 " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">THƯƠNG HIỆU TIÊU BIỂU CHÂU Á - THÁI BÌNH DƯƠNG 2019 </a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-e1dee297f921e973.gif" alt="Sản phẩm, dịch vụ xuất sắc vì người tiêu dùng 2017" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Sản phẩm, dịch vụ xuất sắc vì người tiêu dùng 2017</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a0cdb7cb502d0500.gif" alt=" Doanh nghiệp - Dịch vụ - Môi giới xuất sắc 2015" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/"> Doanh nghiệp - Dịch vụ - Môi giới xuất sắc 2015</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-94169b355cb0e102.gif" alt="Top 10 Sàn Giao dịch Bất động sản xuất sắc Việt Nam 2016" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Sàn Giao dịch Bất động sản xuất sắc Việt Nam 2016</a></h5>
+        </div>
+      </article></div><div class="owl-item active" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5eeea9ddb0a31274.gif" alt="Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam năm 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam năm 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-66e8a801fe974188.gif" alt="Top 10 dự án chung cư cao cấp tốt nhất dành cho dự án Q7 Saigon Riverside Complex. " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 dự án chung cư cao cấp tốt nhất dành cho dự án Q7 Saigon Riverside Complex. </a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b85d117c5d40a353.gif" alt="Top 10 dự án bất động sản nghỉ dưỡng tiềm năng nhất 2023 dành cho dự án MerryLand Quy Nhơn" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 dự án bất động sản nghỉ dưỡng tiềm năng nhất 2023 dành cho dự án MerryLand Quy Nhơn</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-3ae39c1691ba0667.gif" alt="Doanh nghiệp vì cộng đồng – Saigon Times CSR 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp vì cộng đồng – Saigon Times CSR 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-73e50b19b63c8296.gif" alt="Top 100 Nơi Làm Việc Tốt Nhất Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 100 Nơi Làm Việc Tốt Nhất Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-7d8fe763ec9f9246.gif" alt="Top 10 Nhà phát triển Bất động sản Tiêu biểu" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển Bất động sản Tiêu biểu</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-3d994f1a50c37257.gif" alt="Best Community Developer " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Best Community Developer </a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-efbf4b87dc8ae711.gif" alt="Special Recognition for Building Communities" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Special Recognition for Building Communities</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-4a618390973fe841.png" alt="Top 10 Thương Hiệu Mạnh ngành Bất Động Sản 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Thương Hiệu Mạnh ngành Bất Động Sản 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6efc8a012ddec345.png" alt="Doanh nghiệp có môi trường làm việc tốt nhất tại Châu Á năm 2022 (HRAA)" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp có môi trường làm việc tốt nhất tại Châu Á năm 2022 (HRAA)</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-eae4558a679e6102.png" alt="Nhà phát triển bất động sản phức hợp tốt nhất  Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển bất động sản phức hợp tốt nhất  Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5595f583cb722845.png" alt="Nhà phát triển bất động sản của năm tại Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển bất động sản của năm tại Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-25913572f8f3a355.png" alt="Top 50 doanh nghiệp phát triển bền vững 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 50 doanh nghiệp phát triển bền vững 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-4f81b88ab0cd3659.gif" alt="Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-1746367af19a2946.gif" alt="Top 10 Chủ đầu tư và Phát triển bất động sản uy tín năm 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Chủ đầu tư và Phát triển bất động sản uy tín năm 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c640ae1470ee0767.gif" alt="Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c5967d8e3a0c5634.gif" alt="Top 500 Doanh nghiệp lớn nhất Việt Nam năm 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 500 Doanh nghiệp lớn nhất Việt Nam năm 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-d07974fea3ef1679.gif" alt="Top 50 doanh nghiệp Việt có thương hiệu nhà tuyển dụng hấp dẫn  nhất &lt;Br&gt; Việt Nam 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 50 doanh nghiệp Việt có thương hiệu nhà tuyển dụng hấp dẫn  nhất <br> Việt Nam 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a4dda0fb7f383510.gif" alt="Top 100 Nơi làm việc &lt;br&gt; tốt nhất Việt Nam 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 100 Nơi làm việc <br> tốt nhất Việt Nam 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9bce6276e57d7261.gif" alt="Sản phẩm, dịch vụ tiêu biểu &lt;br&gt;TP.HCM năm 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Sản phẩm, dịch vụ tiêu biểu <br>TP.HCM năm 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c15e4d1fae208531.gif" alt="Doanh nghiệp vì cộng đồng &lt;br&gt; SAIGON TIMES CSR 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp vì cộng đồng <br> SAIGON TIMES CSR 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f67556939f03a401.gif" alt="Nhà phát triển dự án phức hợp tốt nhất 2021 - Vietnam Property Awards 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển dự án phức hợp tốt nhất 2021 - Vietnam Property Awards 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b9332833928c2631.gif" alt="Top 50 Doanh nghiệp lợi nhuận xuất sắc Việt Nam năm 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 50 Doanh nghiệp lợi nhuận xuất sắc Việt Nam năm 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-1a740bc03fd27165.gif" alt="Nhà phát triển Bất động sản xuất sắc 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển Bất động sản xuất sắc 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-0c4bb02aaa9ba539.gif" alt="Thương hiệu mạnh Việt Nam 2021 " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Thương hiệu mạnh Việt Nam 2021 </a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-ef16a54383aa1622.gif" alt="Top 10 nhà phát triển Bất động sản hàng đầu Việt Nam 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 nhà phát triển Bất động sản hàng đầu Việt Nam 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-e29670c0fb62d362.gif" alt="Best Residential Developer Southeast Asia 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Best Residential Developer Southeast Asia 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6890e3dd2185b177.gif" alt="Top 10 Nhà phát triển Bất động sản tiêu biểu 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển Bất động sản tiêu biểu 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-f3ac33b3acb7f247.gif" alt="Giấy khen doanh nghiệp thực hiện tốt nghĩa vụ thuế năm 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Giấy khen doanh nghiệp thực hiện tốt nghĩa vụ thuế năm 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a867c6b33a279881.gif" alt="Doanh nghiệp TP.HCM tiêu biểu năm 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp TP.HCM tiêu biểu năm 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-598f4497b4a19891.gif" alt="Thương hiệu Việt yêu thích nhất 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Thương hiệu Việt yêu thích nhất 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-fa7f49aeeb4c4740.gif" alt="Thương hiệu tiêu biểu Việt Nam hội nhập 2020" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Thương hiệu tiêu biểu Việt Nam hội nhập 2020</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6cecca9722857374.gif" alt="Nhà phát triển bất động sản tiêu biểu Việt Nam 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển bất động sản tiêu biểu Việt Nam 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-d1ccb72660407996.gif" alt="Sản phẩm, dịch vụ tiêu biểu TP.HCM 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Sản phẩm, dịch vụ tiêu biểu TP.HCM 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a4ea6de04ed5e938.gif" alt="Top 20 nhãn hiệu nổi tiếng Việt Nam 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 20 nhãn hiệu nổi tiếng Việt Nam 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-fd70a2cd16e4a706.gif" alt="Bằng khen của hiệp hội bất động sản Việt Nam 2019" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Bằng khen của hiệp hội bất động sản Việt Nam 2019</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-abe2895d894b3634.gif" alt="THƯƠNG HIỆU TIÊU BIỂU CHÂU Á - THÁI BÌNH DƯƠNG 2019 " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">THƯƠNG HIỆU TIÊU BIỂU CHÂU Á - THÁI BÌNH DƯƠNG 2019 </a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-e1dee297f921e973.gif" alt="Sản phẩm, dịch vụ xuất sắc vì người tiêu dùng 2017" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Sản phẩm, dịch vụ xuất sắc vì người tiêu dùng 2017</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a0cdb7cb502d0500.gif" alt=" Doanh nghiệp - Dịch vụ - Môi giới xuất sắc 2015" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/"> Doanh nghiệp - Dịch vụ - Môi giới xuất sắc 2015</a></h5>
+        </div>
+      </article></div><div class="owl-item" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-94169b355cb0e102.gif" alt="Top 10 Sàn Giao dịch Bất động sản xuất sắc Việt Nam 2016" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Sàn Giao dịch Bất động sản xuất sắc Việt Nam 2016</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5eeea9ddb0a31274.gif" alt="Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam năm 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam năm 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-66e8a801fe974188.gif" alt="Top 10 dự án chung cư cao cấp tốt nhất dành cho dự án Q7 Saigon Riverside Complex. " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 dự án chung cư cao cấp tốt nhất dành cho dự án Q7 Saigon Riverside Complex. </a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-b85d117c5d40a353.gif" alt="Top 10 dự án bất động sản nghỉ dưỡng tiềm năng nhất 2023 dành cho dự án MerryLand Quy Nhơn" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 dự án bất động sản nghỉ dưỡng tiềm năng nhất 2023 dành cho dự án MerryLand Quy Nhơn</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-3ae39c1691ba0667.gif" alt="Doanh nghiệp vì cộng đồng – Saigon Times CSR 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp vì cộng đồng – Saigon Times CSR 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-73e50b19b63c8296.gif" alt="Top 100 Nơi Làm Việc Tốt Nhất Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 100 Nơi Làm Việc Tốt Nhất Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-7d8fe763ec9f9246.gif" alt="Top 10 Nhà phát triển Bất động sản Tiêu biểu" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển Bất động sản Tiêu biểu</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-3d994f1a50c37257.gif" alt="Best Community Developer " width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Best Community Developer </a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-efbf4b87dc8ae711.gif" alt="Special Recognition for Building Communities" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Special Recognition for Building Communities</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-4a618390973fe841.png" alt="Top 10 Thương Hiệu Mạnh ngành Bất Động Sản 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Thương Hiệu Mạnh ngành Bất Động Sản 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-6efc8a012ddec345.png" alt="Doanh nghiệp có môi trường làm việc tốt nhất tại Châu Á năm 2022 (HRAA)" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Doanh nghiệp có môi trường làm việc tốt nhất tại Châu Á năm 2022 (HRAA)</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-eae4558a679e6102.png" alt="Nhà phát triển bất động sản phức hợp tốt nhất  Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển bất động sản phức hợp tốt nhất  Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-5595f583cb722845.png" alt="Nhà phát triển bất động sản của năm tại Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Nhà phát triển bất động sản của năm tại Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-25913572f8f3a355.png" alt="Top 50 doanh nghiệp phát triển bền vững 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 50 doanh nghiệp phát triển bền vững 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-4f81b88ab0cd3659.gif" alt="Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-1746367af19a2946.gif" alt="Top 10 Chủ đầu tư và Phát triển bất động sản uy tín năm 2022" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Chủ đầu tư và Phát triển bất động sản uy tín năm 2022</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c640ae1470ee0767.gif" alt="Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 10 Nhà phát triển bất động sản hàng đầu Việt Nam 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-c5967d8e3a0c5634.gif" alt="Top 500 Doanh nghiệp lớn nhất Việt Nam năm 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 500 Doanh nghiệp lớn nhất Việt Nam năm 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-d07974fea3ef1679.gif" alt="Top 50 doanh nghiệp Việt có thương hiệu nhà tuyển dụng hấp dẫn  nhất &lt;Br&gt; Việt Nam 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 50 doanh nghiệp Việt có thương hiệu nhà tuyển dụng hấp dẫn  nhất <br> Việt Nam 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-a4dda0fb7f383510.gif" alt="Top 100 Nơi làm việc &lt;br&gt; tốt nhất Việt Nam 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Top 100 Nơi làm việc <br> tốt nhất Việt Nam 2021</a></h5>
+        </div>
+      </article></div><div class="owl-item cloned" style="width: 369.984px; margin-right: 30px;"><article class="">
+        <div class="quote-lisa-body"><a class="quote-lisa-figure" href="https://www.hungthinhland.com/#"><img src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/hung-thinh-land-9bce6276e57d7261.gif" alt="Sản phẩm, dịch vụ tiêu biểu &lt;br&gt;TP.HCM năm 2021" width="215" height="180"></a>
+          <h5 class="quote-lisa-cite"><a href="https://www.hungthinhland.com/">Sản phẩm, dịch vụ tiêu biểu <br>TP.HCM năm 2021</a></h5>
+        </div>
+      </article></div></div></div><div class="owl-nav disabled"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots disabled"></div></div>
+  </div>
+</div>
+</div></section>
+	
+  
+  <!-- Page Footer-->
+  <!-- <div class="footernoel"></div> -->
+
+  <footer class="section footer-variant-2 footer-modern context-dark">
+    <div class="footer-variant-2-content">
+      <div class="container">
+        <div class="row row-40 justify-content-between">
+          <div class="col-sm-4 col-lg-4 col-xl-4 wow fadeInDown" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInDown;">
+            <div class="oh-desktop">
+              	
+                <h5 class="title_footer">CÔNG TY CỔ PHẦN HƯNG THỊNH LAND</h5>
+<ul class="footer-contacts d-inline-block d-md-block">
+    <li>
+    <div class="unit unit-spacing-xs">
+    <div class="unit-left">&nbsp;</div>
+    <div class="unit-body">
+    <p><strong>Địa chỉ:</strong> 53 Trần Quốc Thảo, P.Võ Thị Sáu, Q.3, TP.HCM</p>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="unit unit-spacing-xs">
+    <div class="unit-left">&nbsp;</div>
+    <div class="unit-body">
+    <p><strong>Điện thoại:</strong> (028) 7307 5888</p>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="unit unit-spacing-xs">
+    <div class="unit-left">&nbsp;</div>
+    <div class="unit-body">
+    <p><strong>Hotline CSKH:</strong>  1900633888</p>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="unit unit-spacing-xs">
+    <div class="unit-left">&nbsp;</div>
+    <div class="unit-body">
+    <p><strong>Fax: </strong>(028) 3924 9545</p>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="unit unit-spacing-xs">
+    <div class="unit-left">&nbsp;</div>
+    <div class="unit-body">
+    <p><strong>Email:</strong> info@hungthinhland.com</p>
+    <p><strong>MST</strong>: 0302588518 - Ngày cấp: 17/10/2008 <br>
+    <strong>Nơi cấp: </strong>Sở Kế hoạch và Đầu tư TP.HCM</p>
+    </div>
+    </div>
+    </li>
+</ul>             
+            </div>
+          </div>
+			
+			
+			
+			<!--<div class="col-sm-8 col-lg-8 col-xl-8 wow fadeInDown" data-wow-delay=".2s">
+            <div class="oh-desktop">
+             
+               
+                <div><img src="https://www.hungthinhland.com/images/footer_demo.jpg" width="100%"> </div>
+            
+            </div>
+          </div>-->
+			
+			
+			
+			
+			
+          <div class="col-sm-6 col-lg-4 col-xl-3 wow fadeInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInDown;">
+            <div class="oh-desktop">
+          
+                <h5 class="title_footer">Kết nối với chúng tôi</h5>
+                <div>
+                  <ul class="list-inline list-inline-xs ">
+                  	                    <li><a target="_blank" class="icon fa fa-facebook" href="https://www.facebook.com/HungThinhLand.Official/"></a></li>
+                                                            <li><a target="_blank" class="icon fa fa-youtube" href="https://www.youtube.com/channel/UClnseIsx6YZ5JL7o0dpb6QA?view_as=subscriber"></a></li>
+                                      </ul>
+                </div>
+             
+              <div class="inset-top-18">
+                <h5 class="title_footer">Hotline</h5>
+                <div>
+                  <ul class="list-inline list-inline-xs">
+                    <li class="hot_line"><a class="icon fa fa-phone hot_line_phone"></a>1900 6958</li>
+                  </ul>
+                </div>
+				  
+              </div>
+				<div style="padding-top: 10px;"><a href="http://online.gov.vn/Home/WebDetails/71393" target="_blank">
+					<img style="height: 45px !important" src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/dathongbao_bocongthuong.png" alt="" height="35"></a></div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-lg-4 col-xl-4 wow fadeInDown" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
+            <div class="oh-desktop">
+             
+                <h5 class="title_footer">Nhận thông tin từ chúng tôi</h5>
+                <form class="rd-form" method="post">
+                <input type="hidden" name="status" value="home">
+                  <div class="form-wrap">
+                    <input class="form-input" id="subscribe-form-5-email" type="email" name="email" required="">
+                    <label class="form-label rd-input-label" for="subscribe-form-5-email">VUI LÒNG NHẬP EMAIL</label>
+                  </div>
+                  <button class="button button-secondary button-ujarak" type="submit">Đăng ký</button>
+                </form>
+            
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+     <!-- Copyright -->
+    <div class="footer-variant-2-bottom-panel wow fadeInUp" data-wow-delay="0s" style="visibility: hidden; animation-delay: 0s; animation-name: none;">
+      <div class="container"> 
+       
+        <div class="text-center"> Copyright © 2019 Hung Thinh Land. All Right Reserved | <a href="https://hungthinhland.com/chinhsach">Chính sách bảo mật thông tin</a></div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+<div class="snackbars" id="form-output-global"></div>
+<!-- Javascript--> 
+
+<script src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/core.min.js.tải xuống" type="text/javascript"></script> 
+<script src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/script.js.tải xuống" type="text/javascript"></script>
+<script defer="" src="./CÔNG TY CỔ PHẦN HƯNG THỊNH LAND_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;92339838fe8f8930&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;0c5f7f5b41b1450f8f42f5c4bbcc6ebb&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}}}" crossorigin="anonymous"></script>
+
+<a href="https://www.hungthinhland.com/#" id="ui-to-top" class="ui-to-top fa fa-angle-up"></a></body><love-deal-csui><template shadowrootmode="open"><style id="loveDealStyle">.love-deal-container{-webkit-user-select:none;background-color:#fff;border-width:1px;border-color:#e8eaec;border-radius:18px;width:320px;height:468px;box-shadow:0 0 16.8px 4.2px #7878784d}.love-deal-container.love-deal-has-active{height:518px}#love-deal-container{z-index:2147483647;width:320px;height:auto;transition:all .3s;position:fixed;top:50px;right:50px;font-size:16px!important}#love-deal-container.love-deal-has-active{height:518px}.love-deal-header{z-index:99;box-sizing:border-box;place-content:center;align-items:center;width:100%;height:50px;padding:0 15px;display:flex;position:relative;top:0;left:0}.love-deal-logo{cursor:pointer;text-align:center;width:34px;height:34px;font-size:0;line-height:24;display:block;position:absolute;top:18px;left:20px}.love-deal-close{cursor:pointer;text-align:center;width:12px;height:12px;font-size:0;line-height:12;display:block;position:absolute;top:22px;right:30px}.love-deal-logo-img,.love-deal-close-icon,.love-deal-close-hover-icon{width:100%}.love-deal-close-hover-icon,.love-deal-close:hover .love-deal-close-icon{display:none}.love-deal-close:hover .love-deal-close-hover-icon{display:block}.love-deal-coupon-logo,.love-deal-coupon-num{text-align:center;place-content:center;align-items:center;height:60px;display:block}.love-deal-coupon-logo{border-radius:1000px;width:80px;height:80px;margin:0 auto;text-decoration:none;display:flex;overflow:hidden;box-shadow:0 0 30px #7878784d}.love-deal-brand-name{word-break:break-word;overflow-wrap:break-word;-webkit-line-clamp:2;color:#000;-webkit-box-orient:vertical;width:80%;text-decoration:none;display:-webkit-box;overflow:hidden}.love-deal-coupon-logo img{width:100%}.love-deal-coupon img{height:100%}.love-deal-coupon-num{color:#000;letter-spacing:0;height:80px;font-size:22px;font-style:normal;font-weight:bolder;line-height:24px;text-decoration:none}.love-deal-coupon-red{color:#ff4b49;fill:#fe564d}.love-deal-line{background-color:#f0f0f0;width:90%;height:1px;margin:0 auto}.love-deal-rate{height:50px;line-height:50px}.love-deal-coupon-sm{color:#000;margin-left:5%;font-size:13px}.love-deal-right{float:right;margin-right:5%;font-size:13px;font-weight:700;position:relative}.love-deal-m-right{margin-right:30px}.love-deal-high{position:absolute;top:5px;right:0}.love-deal-coupon-box{text-align:center;height:90px;padding-top:20px;padding-bottom:20px}.love-deal-coupon{text-align:center;background:#fb9b3617;border:1px dashed #ff817f;border-radius:11px;width:90%;height:100%;margin:0 auto;padding:0;font-size:14px;font-style:normal;font-weight:400;line-height:20px;position:relative}.love-deal-code{color:#000;-webkit-user-select:text;font-size:18px;font-weight:700;position:absolute;top:25px;left:15px}.love-deal-worked{color:#000;-webkit-user-select:none;font-size:13px;font-weight:500;position:absolute;top:45px;left:15px}.love-deal-success{border-style:none;border-color:unset;text-align:center;color:#fe564d;letter-spacing:0;background:#ffcbc4;border-radius:27px;width:120px;height:22px;padding:0;font-size:11px;font-style:normal;font-weight:700;line-height:22px;position:absolute;top:7px;right:10px}.love-deal-copy{cursor:pointer;font-size:16px;font-weight:700;position:absolute;top:35px;right:50px}.love-deal-copied{color:#000;margin-right:-20px}.love-deal-more-btn{border-style:none;border-color:unset;text-align:center;color:#fff;cursor:pointer;background:linear-gradient(90deg,#ff986d,#ff5d80);border-radius:71px;width:90%;height:40px;margin:0 auto;padding:0;font-size:15px;font-style:normal;font-weight:bolder;line-height:40px;text-decoration:none;animation-name:shake;animation-duration:5s;animation-iteration-count:infinite;display:block}.love-deal-more-btn.love-deal-none{animation-name:none}.love-deal-snooze{color:#8e8e8e;letter-spacing:0;text-align:center;z-index:10;width:100%;height:40px;font-size:12px;font-style:normal;font-weight:400;line-height:40px;text-decoration:underline;position:relative}.love-deal-snooze span{cursor:pointer}@keyframes shake{0%,to{transform:translate(0,0)}10%,30%,50%,70%,90%{transform:translate(-10px)}20%,40%,60%,80%{transform:translate(10px)}}.love-deal-ball{cursor:pointer;user-select:none;pointer-events:auto;z-index:2147483647;border-radius:50%;width:48px;height:48px;position:fixed;box-shadow:0 0 16.8px 4.2px #7878784d}.love-deal-ball.expanded{width:55px}.no-transition{transition:none!important}.love-deal-ball-img-box{position:relative}.love-deal-ball img{user-select:none;-webkit-user-drag:none;height:48px}.love-deal-close-container{width:0!important;height:0!important}.love-deal-ball-move{z-index:999;cursor:ns-resize;width:12px;height:48px;display:block;position:absolute;top:0;right:0}.close{right:-58px!important}.love-deal-active img{border-bottom-right-radius:18px;border-bottom-left-radius:18px;width:100%;font-size:0;overflow:hidden}.love-apply-container{height:auto!important}.love-deal-test-box{user-select:none;background:#00000080;width:100%;height:100%;position:fixed;top:0;left:0}.love-deal-box{border-radius:20px;width:800px;height:354px;position:fixed;top:50%;left:50%;overflow:hidden;transform:translate(-50%,-70%);box-shadow:0 0 10px #fcfcfc}.love-deal-box .love-deal-box-bg{width:800px;height:354px}.love-deal-box-content{width:100%;height:100%;position:relative}.love-deal-box-top{width:100%;height:100%;position:absolute;top:0;left:0}.love-deal-box-title{text-align:center;font-size:38px;font-weight:700}.love-deal-test-list{box-sizing:border-box;justify-content:flex-start;align-items:center;width:600px;height:110px;margin:0 auto;position:relative;overflow:hidden}.love-deal-test-active-box{color:#f66a42;z-index:10;border:2px solid #ff5050;border-radius:1000px;width:200px;height:45px;margin-top:-26px;margin-left:-100px;font-size:24px;line-height:45px;animation:1s ease-in-out infinite bounce;position:absolute;top:50%;left:50%;box-shadow:0 0 16px 4px #7878784d}.love-deal-test-codes{box-sizing:border-box;justify-content:flex-start;align-items:center;width:600px;margin:40px auto;transition:transform .5s;display:flex;position:relative}.love-deal-test-code{box-sizing:border-box;white-space:nowrap;text-overflow:ellipsis;text-align:center;color:#0000;background:linear-gradient(90deg,#ff9173,red);-webkit-background-clip:text;border-radius:1000px;align-items:center;min-width:200px;padding:0 45px;font-size:20px;font-weight:700;line-height:30px;overflow:hidden}.love-deal-test-active{color:#f66a42;padding:0 0 0 45px;font-size:22px}.love-deal-test-code-img{vertical-align:text-top;width:38px;margin-top:-3px;margin-left:10px}.love-deal-test-active .love-deal-test-code-img{display:block}.love-deal-test-process{background-color:#fff;border:3px solid #f66a42;border-radius:1000px;width:726px;height:26px;margin:0 auto}.love-deal-test-process-inside{background:linear-gradient(90deg,#fea374,#ff678b);border-radius:1000px;width:0;height:20px;margin:3px;animation-duration:5s}.love-deal-test-process-text{text-align:center;color:#f66a42;width:100%;margin-top:20px;font-size:30px;font-weight:700}@keyframes bounce{0%,to{transform:scale(1)}50%{transform:scale(1.1)}}.love-deal-box-btns{text-align:center;flex-wrap:nowrap;justify-content:space-evenly;margin:40px;display:flex}.love-deal-box-btn{color:#fff;cursor:pointer;border-radius:1000px;width:290px;font-size:22px;font-weight:bolder;line-height:50px;box-shadow:0 0 16px 4px #7878784d}.love-deal-box-btn-0{background-color:#00b025}.love-deal-box-btn-1{background-color:#ff6200}.love-deal-best-code{cursor:pointer;background:linear-gradient(135deg,#fce38a33,#f38181cc);width:200px;padding:5px 60px;font-size:22px}.love-deal-best-succ{vertical-align:middle;width:36px;margin-left:10px}.love-deal-csui-container{width:320px;height:auto;display:flex;position:relative;top:0;left:0}.ld-container::-webkit-scrollbar{width:4px;height:4px}.ld-container::-webkit-scrollbar-thumb{background:#9996;border-radius:100px;box-shadow:inset 0 0 #f0f0f080}.ld-container{width:100%;height:auto}.ld-code-container,.ld-brand-container{background-color:#fff;border-radius:18px;width:100%}.ld-brand-container{height:165px}.ld-code-container{margin-top:15px;padding-bottom:15px}.ld-brand-name{text-align:center}.ld-brand-name a{color:#000;text-align:center;height:45px;font-size:18px;font-weight:bolder;line-height:45px;text-decoration:none}.ld-coupon-red{color:#f64748;fill:#fe564d}.ld-coupon-num{color:#000;letter-spacing:0;text-align:center;height:60px;margin-top:-10px;font-size:20px;font-style:normal;font-weight:bolder;line-height:60px;text-decoration:none}.ld-line{background-color:#f0f0f0;width:90%;height:1px;margin:0 auto}.ld-rate{height:50px;line-height:50px}.ld-coupon-sm{margin-left:5%;font-size:13px}.ld-right{float:right;margin-right:5%;font-size:13px;font-weight:700;position:relative}.ld-m-right{margin-right:30px}.ld-high{position:absolute;top:5px;right:0}.ld-middle{vertical-align:-6px}.ld-coupon-title{text-align:center;height:40px;font-size:15px;font-weight:bolder;line-height:40px}.ld-more-btn{text-align:center;color:#fff;background:linear-gradient(90deg,#ff986d,#ff5d80);border-radius:71px;width:90%;height:40px;margin:0 auto;padding:0;font-size:15px;font-style:normal;font-weight:bolder;line-height:40px;text-decoration:none;display:block}.ld-ul{margin:0;padding:0 10px}.ld-coupon-box{text-align:center;height:80px;padding-bottom:10px;list-style-type:none}.ld-coupon{text-align:center;background:#fb9b3617;border:1px dashed #fe564d;border-radius:11px;height:100%;padding:0;font-size:14px;font-style:normal;font-weight:400;line-height:20px;position:relative}li.ld-coupon-box{height:60px}li.ld-sm-coupon.ld-coupon-box{height:40px!important}li .ld-coupon{background:0 0;border-color:#9a9a9a}.ld-code{-webkit-user-select:text;font-size:15px;font-weight:700;position:absolute;top:20px;left:15px}.ld-worked{-webkit-user-select:none;white-space:nowrap;text-overflow:ellipsis;text-align:left;width:200px;font-size:11px;font-weight:500;position:absolute;top:40px;left:15px;overflow:hidden}li .ld-code{top:10px}li .ld-worked{top:30px}.ld-success{border-style:none;border-color:unset;text-align:center;color:#fe564d;letter-spacing:0;background:#fcdcc4;border-radius:27px;width:100px;height:20px;padding:0;font-size:11px;font-style:normal;font-weight:700;line-height:20px;position:absolute;top:5px;right:5px}.ld-copy{cursor:pointer;user-select:none;font-size:16px;font-weight:700;position:absolute;top:35px;right:30px}.ld-copied{margin-right:-20px}li .ld-copy{top:20px}li.ld-sm-coupon .ld-copy{top:10px!important}li svg{fill:#9a9a9a!important}.ld-logo{color:#fd5700;height:35px;margin-bottom:10px;font-size:14px;font-weight:500;line-height:35px;text-decoration:none;position:relative}.ld-logo img{vertical-align:middle;width:35px;height:35px;margin-right:10px}.ld-no-support{color:#666;letter-spacing:0;text-align:left;width:65%;height:100%;margin:0;padding:10px;font-size:13px;font-style:normal;font-weight:500;line-height:100%;text-decoration:none;display:inline-block;position:absolute;top:0;left:0}.ld-no-support-text{width:180px;position:absolute;top:40px;left:105px;transform:translate(-50%,-50%)}.ld-no-support-btn-box{width:35%;height:100%;line-height:100%;display:inline-block;position:absolute;top:0;right:0}.ld-submit-btn{border-style:none;border-color:unset;text-align:center;cursor:pointer;color:#fc1c3a;background:#fccccc;border-radius:38px;width:85px;height:30px;margin:0 auto;padding:0;font-size:13px;font-style:normal;font-weight:700;line-height:30px;position:absolute;top:25px;right:15px}.ld-brand-container.ld-none{border:1px solid #ececec;margin-top:5px;position:relative;background-color:#fcecec!important;height:80px!important}.ld-coupon-title.ld-none{text-align:left;margin-left:5%}.ld-coupon-shop{text-align:center;cursor:pointer;height:80px;padding-bottom:10px;list-style-type:none}.ld-shop{text-align:center;border:1px solid #e4e2e2;border-radius:11px;height:100%;padding:0;font-size:14px;font-style:normal;font-weight:400;line-height:20px;position:relative}.ld-hot{background:#fff3f3}.ld-shop-logo{border-radius:1000px;width:45px;height:45px;line-height:45px;position:absolute;top:17px;left:10px;overflow:hidden;box-shadow:0 0 16.8px 1px #6666664d}.ld-shop-logo img{width:100%}.ld-shop-name{font-size:14px;font-weight:700;position:absolute;top:20px;left:68px}.ld-shop-title{color:#f64748;font-size:14px;font-weight:700;position:absolute;bottom:20px;left:68px}.ld-shop-btn{width:70px;height:25px;font-size:13px;font-weight:500;line-height:25px;position:absolute;top:25px;right:10px}.ld-btn-submitted{color:#009671;background-color:#fff;border:1px solid #009671}.ld-brand-container.ld-search{background-color:#0000;height:40px;margin-top:10px;position:relative}.ld-search-input{color:#666;border:1px solid #fff;border-radius:18px;width:265px;height:40px;padding-left:40px;font-size:14px;font-weight:600;line-height:40px;box-shadow:0 0 10px #00285724}.ld-search-input:focus{border:1px solid #cfcfef;outline:none}.ld-search-input:empty:before{content:attr(placeholder);color:#aaa;pointer-events:none}.ld-search-input:focus:empty:before{content:none}.ld-search-icon{width:18px;height:18px;position:absolute;top:11px;left:14px}.ld-search-icon svg{fill:#999}.ld-search-ul{z-index:100;background-color:#fff;border:1px solid #efefef;border-radius:3px;width:100%;height:auto;padding:3px 0;position:absolute;top:28px;box-shadow:0 0 10px #00285724}.ld-search-ul li{cursor:pointer;padding:3px 10px;list-style-type:none}.ld-search-ul li:hover{background-color:#f647481a}.ld-search-domain{color:#999;margin-left:10px}.ld-highlight{color:#f64748}.love-deal-more-btn{border-style:none;border-color:unset;text-align:center;color:#fff;cursor:pointer;background:linear-gradient(90deg,#ff986d,#ff5d80);border-radius:71px;width:90%;height:40px;margin:0 auto;padding:0;font-size:15px;font-style:normal;font-weight:bolder;line-height:40px;text-decoration:none;animation-name:shake;animation-duration:5s;animation-iteration-count:infinite;display:block}@keyframes shake{0%,to{transform:translate(0,0)}10%,30%,50%,70%,90%{transform:translate(-10px)}20%,40%,60%,80%{transform:translate(10px)}}.ld-container{-webkit-user-select:none;background-color:#f4f4f4;border-width:1px;border-color:#e8eaec;border-radius:18px;padding:15px;overflow:auto;box-shadow:0 0 16.8px 4.2px #7878784d;width:290px!important;height:468px!important}.ld-brand-container{position:relative}.ld-close{top:10px!important;right:10px!important}</style><div id="love-deal-container" class="love-deal-close-container" style="z-index: 2147483647;"><div id="love-deal-overlay-0" class="love-deal-csui-container"></div></div></template></love-deal-csui></html>
